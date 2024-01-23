@@ -1,0 +1,30 @@
+.main
+{
+    background-color:aliceblue;
+    margin: 100px;
+    border-style: dashed;
+    border-radius: 20px;
+    padding:50px
+    font-weight: bold;
+    background-image: url(bg3.png);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height:300px;
+    width:500px;
+    
+}
+body{
+    background-image: url(bg5.jpeg);
+    display:flex;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+}
+label {
+    padding: .5em 1em .5em 0;
+    flex: 1;
+}
+button {
+    padding: .5em; 
+    border-width: 3px;
+    border-color: black;
+}
